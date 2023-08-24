@@ -13,19 +13,19 @@ body {
 .bg-img1 {
   background-color: #000;
   background-size: cover;
-  background-image: url(/image/image1.jpg);
+  background-image: url(./image/image1.jpg);
 }
 
 .bg-img2 {
   background-color: #000;
   background-size: cover;
-  background-image: url(/image/image2.jpg);
+  background-image: url(./image/image2.jpg);
 }
 
 .bg-img3 {
   background-color: #000;
   background-size: cover;
-  background-image: url(/image/image3.jpg);
+  background-image: url(./image/image3.jpg);
 }
 
 .carousel {
